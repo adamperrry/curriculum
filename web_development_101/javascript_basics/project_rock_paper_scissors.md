@@ -41,6 +41,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [adamperrry's Solution](https://github.com/adamperrry/rock_paper_scissors) - [View in Browser](https://adamperrry.github.io/rock_paper_scissors/)
 - [fillingthemoon's Solution](https://github.com/fillingthemoon/rock-paper-scissors)
 - [Tegristh's Solution](https://github.com/Tegristh/rock-paper-scissors-lizard-spock) - [View in Browser](https://tegristh.github.io/rock-paper-scissors-lizard-spock/)
 - [Platyphyllum's Solution](https://github.com/marboleda/calculator) - [View in Browser](https://marboleda.github.io/calculator/)
